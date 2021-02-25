@@ -57,7 +57,7 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.0.0"
-  curved_drawer:
+  curved_close_drawer:
     dependency: "direct main"
     description:
       path: ".."

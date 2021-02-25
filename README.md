@@ -1,6 +1,6 @@
 
 
-#  Curved Drawer
+#  Curved Closed Drawer
 
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://www.pharous.com/) 
 
@@ -28,17 +28,17 @@ In the `dependencies:` section of your `pubspec.yaml`, add the following line:
 
 
 ```
-curved_drawer: <latest_version>
+curved_close_drawer: <latest_version>
 ```
 
 ## ❔ Usage
 
 ### Import this class
 ```dart
-import 'package:curved_drawer/curved_drawer.dart';
+import 'package:curved_close_drawer/curved_drawer.dart';
 ```
 
-### Use Curved Drawer
+### Use Curved Closed Drawer
 
 ```dart
   @override
@@ -63,7 +63,7 @@ import 'package:curved_drawer/curved_drawer.dart';
 
 ## 🎨 Customization and Attributes
 
-#### CurvedDrawer attributes
+#### Curved Closed Drawer attributes
 <table>
     <th>Attribute Name</th>
     <th>Example Value</th>

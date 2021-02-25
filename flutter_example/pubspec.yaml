@@ -24,7 +24,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  curved_drawer:
+  curved_close_drawer:
     path: ../
   flutter_svg: ^0.19.1
 
