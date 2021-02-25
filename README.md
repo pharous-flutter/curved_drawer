@@ -20,7 +20,7 @@ The source code is **100% Dart**, and everything resides in the [/lib](https://g
 
 
 ### GIF
-<img src="https://github.com/pharous-flutter/drawer_swip/raw/master/screens/curved_drawer.gif" height="400" alt="GIF"/>
+<img src="https://github.com/pharous-flutter/curved_drawer/raw/master/screens/curved_drawer.gif" height="400" alt="GIF"/>
 
 ## 💻 Installation
 In the `dependencies:` section of your `pubspec.yaml`, add the following line:
