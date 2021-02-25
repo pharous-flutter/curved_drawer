@@ -2,7 +2,7 @@ library curved_drawer;
 
 import 'dart:math' as math;
 import 'package:flutter/material.dart';
-import 'package:curved_drawer/clipper.dart';
+import 'package:curved_close_drawer/clipper.dart';
 
 /// A Calculator.
 class CurvedDrawer extends StatefulWidget {
