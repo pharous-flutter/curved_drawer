@@ -2,7 +2,6 @@ import 'package:curved_drawer/curved_drawer.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'dart:math' as math;
-import 'cliper.dart';
 
 void main() {
   runApp(MyApp());
